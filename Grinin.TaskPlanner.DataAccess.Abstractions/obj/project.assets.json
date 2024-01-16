@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Grinin.TaskPlanner.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Grinin.TaskPlanner.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Grinin.TaskPlanner.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grinin.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../Grinin.TaskPlanner.Domain.Models/Grinin.TaskPlanner.Domain.Models.csproj",
+      "msbuildProject": "../Grinin.TaskPlanner.Domain.Models/Grinin.TaskPlanner.Domain.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Grinin.TaskPlanner.Domain.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Steeleto\\.nuget\\packages\\": {},
+    "E:\\Other\\MS\\Components\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Other\\.net reps\\Grinin.TaskPlanner-L2-4\\Grinin.TaskPlanner\\Grinin.TaskPlanner.DataAccess.Abstractions\\Grinin.TaskPlanner.DataAccess.Abstractions.csproj",
+      "projectName": "Grinin.TaskPlanner.DataAccess.Abstractions",
+      "projectPath": "E:\\Other\\.net reps\\Grinin.TaskPlanner-L2-4\\Grinin.TaskPlanner\\Grinin.TaskPlanner.DataAccess.Abstractions\\Grinin.TaskPlanner.DataAccess.Abstractions.csproj",
+      "packagesPath": "C:\\Users\\Steeleto\\.nuget\\packages\\",
+      "outputPath": "E:\\Other\\.net reps\\Grinin.TaskPlanner-L2-4\\Grinin.TaskPlanner\\Grinin.TaskPlanner.DataAccess.Abstractions\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Other\\MS\\Components\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Steeleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\Other\\.net reps\\Grinin.TaskPlanner-L2-4\\Grinin.TaskPlanner\\Grinin.TaskPlanner.Domain.Models\\Grinin.TaskPlanner.Domain.Models.csproj": {
+              "projectPath": "E:\\Other\\.net reps\\Grinin.TaskPlanner-L2-4\\Grinin.TaskPlanner\\Grinin.TaskPlanner.Domain.Models\\Grinin.TaskPlanner.Domain.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

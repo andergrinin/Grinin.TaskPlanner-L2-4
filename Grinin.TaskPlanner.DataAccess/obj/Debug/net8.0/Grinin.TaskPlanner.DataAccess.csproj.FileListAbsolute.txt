@@ -1,0 +1,17 @@
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.DataAccess.deps.json
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.DataAccess.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.DataAccess.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.DataAccess.Abstractions.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.Domain.Models.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.DataAccess.Abstractions.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\bin\Debug\net8.0\Grinin.TaskPlanner.Domain.Models.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.AssemblyInfo.cs
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.csproj.CopyComplete
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\refint\Grinin.TaskPlanner.DataAccess.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\Grinin.TaskPlanner.DataAccess.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L2-4\Grinin.TaskPlanner\Grinin.TaskPlanner.DataAccess\obj\Debug\net8.0\ref\Grinin.TaskPlanner.DataAccess.dll

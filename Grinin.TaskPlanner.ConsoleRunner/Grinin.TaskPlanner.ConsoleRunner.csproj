@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Grinin.TaskPlanner.DataAccess.Abstractions\Grinin.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\Grinin.TaskPlanner.DataAccess\Grinin.TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\Grinin.TaskPlanner.Domain.Logic\Grinin.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Grinin.TaskPlanner.Domain.Models\Grinin.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>
